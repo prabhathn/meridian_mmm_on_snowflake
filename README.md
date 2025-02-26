@@ -16,3 +16,6 @@ This will create a new role with permissions to create a compute pool and db obj
 
 ### Step 2: Import the Notebook and Run the steps
 You will need to import the Notebook in this repo and create a Container Runtime Snowflake Notebook. These are currently in public preview in AWS and Azure regions. The notebook follows the same steps as the Meridian Getting Started tutorial, however, some tutorial typos and bugs have already been fixed for you.
+
+## Attribution
+Meridian MMM was developed by Google and released under the Apache 2.0 license. For more information, please check out: https://developers.google.com/meridian
